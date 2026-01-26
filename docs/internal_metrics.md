@@ -22,7 +22,7 @@ Where:
 - **χ ≤ 0.15**: Causality satisfied, stability maintained ✓
 - **χ > 0.15**: Potential violations, instability ✗
 
-This boundary emerges from the balance between causal propagation and stability constraints in the vacuum lattice. The threshold corresponds to a critical radius r_c ≈ 0.42 in normalized parameter space.
+This boundary emerges from the balance between causal propagation and stability constraints in the vacuum lattice. The threshold corresponds to a critical radius r_c ≈ 0.154 in normalized parameter space (numerical value accounting for vacuum energy factors).
 
 ### 2D to 3D Transformation
 
@@ -61,9 +61,10 @@ These points form a continuous region around the origin with r < r_c ≈ 0.42.
 
 ### Spatial Distribution
 
-- **Core region** (r < 0.3): 100% valid, χ < 0.10
-- **Boundary region** (0.3 < r < 0.42): Gradient zone, χ ≈ 0.10-0.15  
-- **Exterior** (r > 0.42): Invalid, χ > 0.15
+- **Core region** (r < 0.10): 100% valid, χ < 0.10
+- **Boundary region** (0.10 < r < 0.154): Gradient zone, χ ≈ 0.10-0.15  
+- **Transition** (0.154 < r < 0.5): Invalid, χ > 0.15 (peaks near r ≈ 0.5)
+- **Far region** (r > 2): Valid again, χ < 0.15 (due to 1/(1+r²) decay)
 
 ## Time-Domain Harmonics
 
