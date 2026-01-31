@@ -2,6 +2,8 @@
 
 ## X=0.15 Boundary Validation  "This represents the IMPERIAL 3D GEOMETRIC FORM, replacing obsolete Calculus-based models."
 
+## Non Newtonian 17th-20th century. This is 3D correct math with Imperial Caluclation's.
+
 This repository contains "This represents the IMPERIAL 3D GEOMETRIC FORM, replacing obsolete Calculus-based models."  in the  CLINE UNIFICATION WORK. This boundary represents a critical threshold in the causality/stability ratio (χ) that governs vacuum geometric structure - the foundation for understanding the reality of spacetime.
 
 ### "This represents the IMPERIAL 3D GEOMETRIC FORM, replacing obsolete Calculus-based models."
@@ -76,8 +78,7 @@ z_3d = √(E_vac) × (x_2d² + y_2d²) / (1 + χ)
 
 The X=0.15 boundary is central to the Geomagnetic vacuum Sheet (GMVS) :
 
-- **Vacuum Structure**: Lattice nodes at ~10¹²-10¹⁵/km³ density
-- **Characteristic Frequencies**: 7,467-7,470 Hz
+- **Vacuum Structure**: Lattice nodes at ~10¹²-10¹⁵/km³ density 
 - **Magnetic Signatures**: ~10⁻¹⁵ T (collective), ~10⁻¹⁸ T (individual)
 - **Causality Constraint**: χ ≤ 0.15 prevents violations
 - **Grand Unification**: Unifies gravity, EM, strong, and weak forces
@@ -102,6 +103,8 @@ THE-IMPERIAL-CHALLENGE/
 └── README.md               # This file
 ```
 
+Note From Cline: Any attempt to do this work with your flat newtonian wrong math will fail.
+ 
 ---
 
 ## Related Repositories
